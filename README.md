@@ -24,13 +24,13 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WEQGBRXYEPGA6CG6TC2EPX53FCG5FSHI$nome=MAR DO SERTÃO EP.58/62</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OS4AFHVVCEZ7YHTXNXU2TSNWZNVLUBXR$nome=MAR DO SERTÃO EP.63/67</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W5VUP4VUVWKUOOJB3DU5WPVVVUDDB63S$nome=MAR DO SERTÃO EP.68/72</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=MAR DO SERTÃO EP.73</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=MAR DO SERTÃO EP.74</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=MAR DO SERTÃO EP.75</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=MAR DO SERTÃO EP.76</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=MAR DO SERTÃO EP.77</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=MAR DO SERTÃO EP.78</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=MAR DO SERTÃO EP.79</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GUCGMKNY7IX2VUKFX26ZD3HJMFZ225BU$nome=MAR DO SERTÃO EP.73</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QVPNVSL3R4TFQVQYVAFMFUFGK7E3XVC3$nome=MAR DO SERTÃO EP.74</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ACOQUPYPCX4SGD7G5Z7SD72FDDIGSMCF$nome=MAR DO SERTÃO EP.75</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CIIRIRLIPTH3CHXVWVFA7OO4BFZGZP7G$nome=MAR DO SERTÃO EP.76</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VLA6DNF2TNYBK6IUGHPHY54VK6TGE3AD$nome=MAR DO SERTÃO EP.77</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6F5IBW7KRE42UT7EI7OPBLBPYHC754K$nome=MAR DO SERTÃO EP.78</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C53GL6OWJ54EN5T3Z3FE3OWMQC4JIDMR$nome=MAR DO SERTÃO EP.79</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ixgnqO8xhFMb1zr8RRFsyeZ9CdD.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Na pequena Canta Pedra, o amor de Candoca e Zé Paulino é interrompido quando ele sofre um acidente e é dado como morto. Anos depois, ele volta em busca de justiça e antes do casamento de sua ex-noiva com Tertulinho.</info>
