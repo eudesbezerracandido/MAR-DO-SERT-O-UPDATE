@@ -31,6 +31,10 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VLA6DNF2TNYBK6IUGHPHY54VK6TGE3AD$nome=MAR DO SERTÃO EP.77</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6F5IBW7KRE42UT7EI7OPBLBPYHC754K$nome=MAR DO SERTÃO EP.78</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C53GL6OWJ54EN5T3Z3FE3OWMQC4JIDMR$nome=MAR DO SERTÃO EP.79</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IUCMKGQQRQVLBSBIR2OBG6YAH4CEVUKA$nome=MAR DO SERTÃO EP.80</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J5QKBMJVG3VO5AHLBS3EXHK5T5OZFN7O$nome=MAR DO SERTÃO EP.81</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5Q6MF66YFGDZ4U4YMAMCMNQT6SNJEPJT$nome=MAR DO SERTÃO EP.82</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MQYV4SIJDP253P3FCUJWNWQWTA4UR3RD$nome=MAR DO SERTÃO EP.83</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ixgnqO8xhFMb1zr8RRFsyeZ9CdD.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Na pequena Canta Pedra, o amor de Candoca e Zé Paulino é interrompido quando ele sofre um acidente e é dado como morto. Anos depois, ele volta em busca de justiça e antes do casamento de sua ex-noiva com Tertulinho.</info>
